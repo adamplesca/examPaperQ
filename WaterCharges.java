@@ -17,5 +17,6 @@ public class WaterCharges {
         }
 
         System.out.println("Water charge: $" + waterCharge);
+        //testing gitbash feature via VSCode
     }
 }
